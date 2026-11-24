@@ -1,0 +1,1 @@
+<nav class="nav" aria-label="Admin navigation"><a href="dashboard.php">Dashboard</a><a href="products.php">Products</a><a href="categories.php">Categories</a><a href="stock.php">Stock</a><a href="customers.php">Customers</a><a href="orders.php">Orders</a><a href="payments.php">Payments</a><a href="reports.php">Reports</a><a href="staff.php">Staff</a></nav>
